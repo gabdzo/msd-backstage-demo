@@ -4,7 +4,7 @@ metadata:
   name: python-example
   description: Python Example
   annotations:
-    github.com/project-slug: https://github.com/gabdzo/msd-backstage-demo
+    github.com/project-slug: 'backstage/backstage'
   tags:
     - python
     - data
